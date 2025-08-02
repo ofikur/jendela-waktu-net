@@ -3,10 +3,10 @@
 Selamat datang di Jendela Waktu .NET, sebuah perpustakaan digital mini yang didedikasikan untuk menjelajahi dunia novel-novel klasik dari Project Gutenberg. Proyek ini dibangun dengan React, Vite, dan Gutendex API.
 
 #### Halaman Depan
-![Jendela Waktu Screenshot](screenshot/halaman-depan.png)
+![Jendela Waktu Screenshot](screenshot/halaman-depan.jpg)
 
 #### Halaman Detail
-![Jendela Waktu Screenshot](screenshot/halaman-detail.png)
+![Jendela Waktu Screenshot](screenshot/halaman-detail.jpg)
 
 ## 📖 Tentang Proyek
 
