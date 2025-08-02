@@ -38,7 +38,7 @@ Ingin menjalankan proyek ini di komputermu? Ikuti langkah-langkah berikut:
 
 1.  **Clone repositori ini:**
     ```sh
-    git clone [https://github.com/](https://github.com/)[NAMA-USER-GITHUB-KAMU]/jendela-waktu-react.git
+    git clone https://github.com/ofikur/jendela-waktu-react.git
     ```
 
 2.  **Masuk ke direktori proyek:**
