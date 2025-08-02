@@ -8,7 +8,7 @@ Selamat datang di Jendela Waktu .NET, sebuah perpustakaan digital mini yang dide
 #### Halaman Detail
 ![Jendela Waktu Screenshot](screenshot/halaman-detail.png)
 
-## 📖 Tentang Proyek 
+## 📖 Tentang Proyek
 
 **Jendela Waktu .NET** adalah sebuah aplikasi web yang dibangun menggunakan React dan Vite, berfungsi sebagai antarmuka yang indah dan modern untuk [Gutendex API](https://gutendex.com/). Aplikasi ini memungkinkan pengguna untuk mencari, memfilter, dan menemukan puluhan ribu buku klasik yang tersedia di domain publik. 
 
