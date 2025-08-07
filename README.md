@@ -57,3 +57,12 @@ Ingin menjalankan proyek ini di komputermu? Ikuti langkah-langkah berikut:
     ```
 
 Buka `http://localhost:5173` (atau port lain yang tertera di terminal) di browsermu dan mulailah menjelajahi waktu!
+
+## 📜 Lisensi
+
+Proyek ini dirilis di bawah Lisensi MIT. Lihat file `LICENSE` untuk detail lebih lanjut.
+
+---
+
+### Terima Kasih 
+#### ~ Ofikur R.
